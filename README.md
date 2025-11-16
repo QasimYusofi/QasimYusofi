@@ -15,7 +15,6 @@
 
 💬 Ask me about **Django, MongoDB, Verilog, Flutter... or anything [here](https://github.com/qasim12343/qasim12343)**
 
-⚡ Fun fact **Game of Thrones fan**
 
  </div>
  
