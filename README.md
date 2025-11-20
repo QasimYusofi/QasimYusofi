@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Exchange and MarketPlace apps**
+ 🔭 I’m currently working on **Exchange and MarketPlace websites**
  
- 🌱 I’m currently learning **Docker, Nextjs, PostgreSQL**
+ 🌱 I’m currently learning **Docker, Nextjs**
 
 💬 Ask me about **Django, MongoDB, Verilog, Flutter... or anything [here](https://github.com/qasim12343/qasim12343)**
 
