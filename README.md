@@ -6,7 +6,7 @@
  
  🌱 I’m currently learning **Docker, Nextjs**
 
-💬 Ask me about **Django, MongoDB, Verilog, Flutter... or anything [here](https://github.com/qasim12343/qasim12343)**
+💬 Ask me about **Django, MongoDB, Verilog, Flutter... or anything [here](https://github.com/QasimYusofi/QasimYusofi)**
 
 
  </div>
@@ -38,7 +38,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/qasim12343/qasim12343/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/QasimYusofi/QasimYusofi/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
