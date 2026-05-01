@@ -2,7 +2,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Amozesh School ERP websites**
+ 🔭 I’m currently working on **Amozesh School ERP website**
  
  🌱 I’m currently learning **Docker, Nextjs**
 
